@@ -1,0 +1,16 @@
+add info                 добавить информацию
+audit result             результат аудита
+contracts                контракты
+control 99 docs          контроль 99 документов
+customerre ports         порты клиента
+notification Exceptions  уведомления об исключениях
+notifications            уведомления
+plan graphs              графические диаграммы
+plan graphs 2017         диаграммы плана 2017
+protocols                протоколы
+purchase docs            купить документы
+purchase plans           планы закупок
+regulation rule          правило регулирования
+regulation rules         правила регулирования
+request quotation        Запрос котировок
+sketch plans             планы эскиза
