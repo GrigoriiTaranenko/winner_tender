@@ -31,7 +31,7 @@ func (this *Notification) NextDirectory(text string) error {
 }
 
 func (this *Notification) DownloadFile() {
-	
+
 }
 
 func (this *Notification) CurrentDirectory() string {
