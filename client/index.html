@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <a href="parsing" class="button"> Парсинг доступных Zip файлов </a>
+    <a href="contract" class="button"> Парсинг доступных XML Контрактов  </a>
+    <a href="notification" class="button"> Парсинг доступных XML Уведомлений </a>
+    <a href="protocols" class="button">Парсинг доступных XML Протоколов </a>
+    <form action="download">
+        <h3>Выберите регион</h3>
+        <select name="region">
+            <option value="Adygeja_Resp">Адыгейская республика</option>
+            <option value="Krasnodarskij_kraj">Краснодарский край</option>
+        </select>
+        <h3>Выберите тип документа</h3>
+        <select name="typeDocument">
+            <option value="notifications">Уведомления</option>
+            <option value="protocols"> Протоколы </option>
+            <option value="contracts"> Контракты </option>
+        </select>
+        <h3>Выберите начало выгрузки </h3>
+        <input type="date" name="fromDate" dataformatas="">
+        <h3> Выберите окончания выгрузки </h3>
+        <input type="date" name="toDate">
+        <input type="submit">
+    </form>
+    <form action="winner">
+
+    </form>
+</body>
+</html>
